@@ -2,7 +2,7 @@
 import axios from "axios";
 import { locations, issues } from "./mockData";
 
-const API_BASE_URL = "http://localhost:4000/api";
+const API_BASE_URL = "http://localhost:4000/api | https://aptiv-certification-system.onrender.com";
 
 export const api = axios.create({
   baseURL: API_BASE_URL
