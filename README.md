@@ -116,10 +116,3 @@ npm run dev
 ## Commit Message Guidelines
 - Use clear, descriptive messages (e.g., `Add: Implement audit scheduling feature`)
 - Use tags like `Add`, `Fix`, `Refactor`, `Style`, `Chore`, `Docs`, `Test`
-
-## License
-This project is licensed under the MIT License.
-
-## Acknowledgements
-- Inspired by accessibility best practices and modern web development standards.
-- Built with ❤️ by the Aptiv Certification System team.
