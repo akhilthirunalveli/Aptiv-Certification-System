@@ -1,5 +1,7 @@
 # Aptiv Certification System
-
+<div align="left">
+  <img src="https://github.com/akhilthirunalveli/Aptiv-Certification-System/blob/main/frontend/src/assets/Coverpage.png" alt="App Demo" width="920"/>
+</div>
 Aptiv Certification System is a full-stack web application designed to manage, audit, and certify the accessibility of various locations. The platform enables users to view accessibility scores, report issues, and allows administrators to manage audits and monitor accessibility compliance.
 
 ## Features
